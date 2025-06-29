@@ -3,27 +3,21 @@
 
 This Material is a chapter wise study material of DAX formulas ,with explainations along with the use cases
 
-Kaggle Dataset Introduction
+#### Kaggle Dataset Introduction
 For our examples, we'll use the "Superstore Sales Dataset" from Kaggle, which contains sales data for a fictional retail store with information about orders, products, customers, and regions.
 Dataset link: [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
+###  Data Model Overview
+The dataset contains tables:
+- Orders (fact table with sales transactions)
+- People (sales representatives)
+- Returns (returned orders)
 # Comprehensive Power BI DAX Study Material with Kaggle Dataset Examples
 
 ## Chapter 1: Introduction to DAX and Data Modeling
 
 ### 1.1 What is DAX?
 DAX (Data Analysis Expressions) is a formula language used in Power BI, Excel Power Pivot, and SQL Server Analysis Services for data modeling and analysis. It combines functions, operators, and values to perform advanced calculations and queries on your data.
-
-### 1.2 Kaggle Dataset Introduction
-For our examples, we'll use the "Superstore Sales Dataset" from Kaggle, which contains sales data for a fictional retail store with information about orders, products, customers, and regions.
-
-Dataset link: [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-
-### 1.3 Data Model Overview
-The dataset contains tables:
-- Orders (fact table with sales transactions)
-- People (sales representatives)
-- Returns (returned orders)
 
 ## Chapter 2: Basic DAX Functions
 
